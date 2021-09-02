@@ -1,4 +1,5 @@
 ## PIVOT TABLE FROM JSON FILE
+*A react web app to implement pivot table from a json file*
 
 ### **How to run the code on local machine**
 

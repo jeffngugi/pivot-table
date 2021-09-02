@@ -4,7 +4,10 @@ table {
   }
   thead {
     background-color: #0b3cc0dc;
+    color: white;
+    font-weight: bold;
   }
+  
   th,
   td {
     padding: 10px 20px;
