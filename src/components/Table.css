@@ -1,4 +1,23 @@
-table, th, td{
-    border: 1px solid black;
-  border-collapse: collapse;
-}
+table {
+    width: 100%;
+    border-spacing: 0;
+  }
+  thead {
+    background-color: #0b3cc0dc;
+  }
+  th,
+  td {
+    padding: 10px 20px;
+    text-align: left;
+  }
+  td {
+    border-top: 1px solid #2220001d;
+  }
+  
+  .top-head {
+    font-size: 25px;
+  }
+  
+  .total-col {
+    background-color: #2220001d;
+  }
